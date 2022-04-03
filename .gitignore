@@ -6,7 +6,7 @@ tmp/
 *_backup
 
 #ignoring files with extensions
-*DS_Store
+*.DS_Store
 
 #ignoring files
 Thumbs.db
