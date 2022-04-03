@@ -1,0 +1,12 @@
+#Ignore folder tmp
+tmp/
+
+#Ignore files _**
+*_old
+*_backup
+
+#ignoring files with extensions
+*DS_Store
+
+#ignoring files
+Thumbs.db
